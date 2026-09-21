@@ -25,7 +25,7 @@ You'll need R with a few packages installed:
 ```{r}
 install.packages(c("shiny", "ggplot2", "dplyr"))
 shiny::runApp("app.R")
-```{r}
+```
 Author
 Sandra
 
