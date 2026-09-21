@@ -22,10 +22,10 @@ The Beta distribution is bounded between 0 and 1, which makes it useful for mode
 
 ## Running it yourself
 You'll need R with a few packages installed:
-
+```{r}
 install.packages(c("shiny", "ggplot2", "dplyr"))
 shiny::runApp("app.R")
-
+```{r}
 Author
 Sandra
 
