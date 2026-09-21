@@ -1,10 +1,11 @@
-Beta Distribution Shiny App
+Beta Distribution Shiny App /n
+
 These three documents — Proj1_Rmd_template-copy.pdf, Proj1_Rmd_template-copy.Rmd, and app-copy_beta together form a project centered on understanding and visualizing the Beta distribution using R and Shiny. The R Markdown file and PDF provide background information and documentation of the project, while the R script serves as the main Shiny application.You can move the sliders for alpha and beta and watch the shape of the distribution change in real time, switch between the PDF and CDF, calculate probabilities, and generate random samples.
 
-Live app
+Live app /n
 https://sandraosei.shinyapps.io/Statistical-Modelling-2/
 
-What it does
+What it does /n
 The Shiny app is an interactive tool designed to help users explore how the α (alpha) and β (beta) parameters shape the Beta distribution. Through an intuitive interface built with Shiny, users can adjust these parameters using sliders and immediately see the resulting changes in a dynamically generated plot. The app also allows switching between the Probability Density Function (PDF) and the Cumulative Distribution Function (CDF), giving users a deeper understanding of both perspectives.
 
 Additionally, the app includes a probability slider that enables users to compute or highlight specific probability values on the plot. By combining the power of ggplot2 for visualization and dplyr for data handling, this project effectively bridges theory and interactivity. It serves as a valuable educational resource for anyone seeking to grasp how the Beta distribution behaves under different conditions, making statistical learning
